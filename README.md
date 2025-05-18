@@ -15,14 +15,11 @@ This is a simple console-based Hangman game built with Python. The player tries 
 
 ## Installation
  1.Clone the repository:  
-   ```bash
    git clone https://github.com/MinukuriRishaReddy/Hangman/blob/main/hangman.py
 
 
 
 2. Run the game:
-'''bash
-
 python hangman.py
 
 
