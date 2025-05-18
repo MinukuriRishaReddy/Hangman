@@ -23,23 +23,23 @@ This is a simple console-based Hangman game built with Python. The player tries 
 python hangman.py
 
 
-##How to Play
-
-
+How to Play
 -The game chooses a secret word.
 -Guess one letter per turn.
 -Correct letters are revealed in their positions.
 -Wrong guesses add to your allowed mistakes.
 -Guess the word before running out of attempts!
 
-##Contributing
+Contributing
 Feel free to fork the project and submit pull requests. Suggestions and bug reports are welcome.
 
-##License
+License
 This project is licensed under the MIT License.
-##
+
 
 Created by Minukuri Risha Reddy
+
+
 Contact: minukuririshareddy@gmail.com
 
 
